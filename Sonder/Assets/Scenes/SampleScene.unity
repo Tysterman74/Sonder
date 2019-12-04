@@ -18601,7 +18601,7 @@ PrefabInstance:
         type: 3}
       propertyPath: carToSpawn.Array.data[0]
       value: 
-      objectReference: {fileID: 658050439830129072, guid: 274f69f41162dff46a8d742e355d53b4,
+      objectReference: {fileID: 3874466853855176380, guid: 10b0fbc98e92c4e4b8517f46e1632958,
         type: 3}
     - target: {fileID: 8315280671228403357, guid: dbfb35330ef2c4d4e8b07635d3ce6c44,
         type: 3}
